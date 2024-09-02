@@ -1,7 +1,7 @@
 Calculator to calculate the simple interest given :
-principal 
-anual rate of interest 
-time period in year
+principal , 
+anual rate of interest , 
+time period in year , 
 
 INPUT:
 p = principal
